@@ -19,7 +19,7 @@ A full parts list is located in the [parts_list folder](./parts_list/)
 
 <p align="middle">
   <img src="./images/boards.jpg" width="25%" />
-  <img src="./images/box_layout.jpg" width="25%" />
+  <img src="./images/box_layout.JPG" width="25%" />
   <img src="./images/station_mounted.jpg" width="35%"/>
   </p>
 <br/>
