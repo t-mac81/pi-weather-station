@@ -1,0 +1,21 @@
+# See hologram.io for more information
+# Replace "isp.telus.com" with the correct address for your cellular provider
+
+ABORT 'BUSY'
+ABORT 'NO CARRIER'
+ABORT 'VOICE'
+ABORT 'NO DIALTONE'
+ABORT 'NO DIAL TONE'
+ABORT 'NO ANSWER'
+ABORT 'DELAYED'
+TIMEOUT 12
+REPORT CONNECT
+
+"" AT
+OK ATH
+OK ATZ
+OK ATQ0
+OK AT+CGDCONT=1,"IP","isp.telus.com"
+OK ATDT*99***1#
+CONNECT ''
+
