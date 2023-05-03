@@ -1,6 +1,6 @@
 # Pi Weather Station <p align="left"> <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></p>
 
-This is a hardware/software project for an off grid solar powered weather station with webcam that posts to the internet via a cellular modem. Wind speed, wind direction and temperature are recorded. The project was completed in 2017/2018. As of December 2022 there is still a unit in service at a paragliding launch in Vernon, BC Canada.
+This is a hardware/software project for an off grid solar powered weather station with webcam that posts to the internet via a cellular modem. Wind speed, wind direction and temperature are recorded. The project was completed in 2017/2018. As of May 2023 there is still a unit in service at a paragliding launch in Vernon, BC Canada.
 
 ## Hardware
 
